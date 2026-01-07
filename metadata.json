@@ -1,0 +1,7 @@
+{
+  "name": "Avaliação de Desempenho de Funcionários",
+  "description": "A responsive internal web application for managing employee performance evaluations with support for advanced reporting, media attachments, and persistent storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
